@@ -346,7 +346,6 @@ while True:
         led10.value = False
         led11.value = False
         led12.value = True
-        layout.write("\n")
         time.sleep(0.5)
     
     time.sleep(0.05)
